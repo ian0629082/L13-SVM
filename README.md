@@ -2,6 +2,8 @@
 
 Live Demo: https://l13-svmdemo.streamlit.app/
 
+![SVM Kernel Trick Demo](ChatGPT%20Image%202026%E5%B9%B46%E6%9C%8818%E6%97%A5%20%E4%B8%8A%E5%8D%8810_59_33.png)
+
 This is a Python teaching project for visualizing the intuition behind the SVM
 Kernel Trick with an RBF Kernel SVM.
 
