@@ -1,5 +1,7 @@
 # SVM Kernel Trick 3D Interactive Demo
 
+Live Demo: https://l13-svmdemo.streamlit.app/
+
 This is a Python teaching project for visualizing the intuition behind the SVM
 Kernel Trick with an RBF Kernel SVM.
 
