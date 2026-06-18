@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+.streamlit/secrets.toml
+
+assets/manim_output/images/
+assets/manim_output/texts/
+assets/manim_output/videos/**/partial_movie_files/
+assets/manim_output/videos/**/partial_movie_file_list.txt
